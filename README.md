@@ -1,1 +1,1 @@
-# openyu-vuejs
+# OpenYu VueJS
