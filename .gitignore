@@ -8,9 +8,11 @@ yarn-error.log*
 /test/e2e/reports/
 selenium-debug.log
 
+/package-lock.json
+/.vscode/chrome
+
 # Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
