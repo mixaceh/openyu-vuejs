@@ -1,12 +1,19 @@
-# openyu-vuejs
+# OpenYu Vue.js
 
 > A Vue.js project
 
 ## Build Setup
 
 ``` bash
+# install vue-cli
+npm install -g vue-cli
+
+# init vue
+vue init webpack [project name]
+
 # install dependencies
 npm install
+(npm i)
 
 # serve with hot reload at localhost:8080
 npm run dev
